@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.jboss.ide.eclipse.as.core.server.runtime.runtimeTarget/jboss-eap Runtime">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web;jst.jsf"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-atmosphere-0.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-auth-roles-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-bean-validation-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-cdi-1.1-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-cdi-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-core-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-datetime-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-devutils-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-extensions-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-guice-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-ioc-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-jmx-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-js-tests-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-native-websocket-core-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-native-websocket-jetty-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-native-websocket-jetty9-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-native-websocket-tomcat-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-objectsizeof-agent-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-request-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-spring-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-util-6.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/998913/Downloads/apache-wicket-6.18.0-bin/apache-wicket-6.18.0-bin/wicket-velocity-6.18.0.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
